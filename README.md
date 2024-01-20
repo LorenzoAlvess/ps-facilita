@@ -25,7 +25,7 @@ Make sure you have the following installed on your machine:
 2. **Navigate to the Project Directory**
 
 3. **Start the Backend**
-   '''bash
+   ```bash
    docker-compose up -d
 
 4. **Access the Project Locally:**
