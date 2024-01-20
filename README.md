@@ -16,14 +16,18 @@ Make sure you have the following installed on your machine:
 - Docker
 - Docker Compose
 
-### Database Configuration
-1. (Add instructions for configuring the database, if necessary)
+## Setup
 
-### Backend Setup
-1. Clone this repository.
-2. Navigate to the project directory.
-
-### Docker Compose
-Run the following command to start the backend using Docker Compose:
+1. **Clone the Repository:**
    ```bash
+   git clone [YOUR_REPOSITORY_URL]
+
+2. **Navigate to the Project Directory**
+
+3. **Start the Backend**
+   '''bash
    docker-compose up -d
+
+4. **Access the Project Locally:**
+   Open your web browser and go to http://localhost:3000.
+
