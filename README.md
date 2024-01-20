@@ -1,11 +1,12 @@
-# Awesome Project
+# Customer Management System
 
 ## Description
-Welcome to our awesome project! This is a brief description of what we're building and why it's amazing.
+This is a customer management system project, which used a variation of the traveling salesman to solve the optimization problem
+To facilitate the execution of the project, I did not create an .env file and left the database configuration variables pre-defined
 
 ## Technologies Used
 - Node.js
-- Express
+- React.js
 - Docker
 - PostgreSQL (or your preferred database)
 
